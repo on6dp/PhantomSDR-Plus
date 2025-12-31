@@ -3,7 +3,7 @@
   Polished, scannable, and easy to follow. Hero image + badges + quick start.
 -->
 
-<h1 align="center">NovaSDR</h1>
+<h1 align="center">PhantomSDR-Plus-legacy</h1>
 <p align="center"><i>formerly PhantomSDR‑Plus</i></p>
 
 <p align="center">
